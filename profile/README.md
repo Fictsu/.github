@@ -1,12 +1,11 @@
-## Hi there 👋
+# Fictsu
+**Fictsu** is a platform where writers can create, and publish fiction with the world. Designed for authors, readers, and creatives, Fictsu empowers storytelling with tools for chapter-based writing, AI-assisted creativity.
 
-<!--
+Built with:
+- **Frontend**: [Next.js](https://nextjs.org/)
+- **Backend**: [Gin Web Framework](https://gin-gonic.com/)
+- **Database**: [PostgreSQL](https://www.postgresql.org/)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📄 Project Resources
+- [SDD Document](https://drive.google.com/file/d/13O8uWU53G_1AnZ8X_GQiCftovEIb6sjZ/view?usp=drive_link)
+- [Poster](https://drive.google.com/file/d/1q5nT7LOqsiPDXeLDAl2IvovOv8sIRgha/view?usp=sharing)
