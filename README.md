@@ -3,7 +3,7 @@
 
 Built with:
 - **Frontend**: [Next.js](https://nextjs.org/)
-- **Backend**: [Gin](https://golang.org/)
+- **Backend**: [Gin Web Framework](https://gin-gonic.com/)
 - **Database**: [PostgreSQL](https://www.postgresql.org/)
 
 ## 📄 Project Resources
